@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test
 
 mam
+=======
+
+>>>>>>> b7a89dea6f12d1def5dce0b8d680827f91684483
